@@ -1,4 +1,7 @@
-# Sistema de Gestão de terrenos: Luena-TerraFacil
+
+# SIGeT
+- Sistema Integrado de Gestão de Terrenos
+
 A venda de terrenos em Luena ocorre de forma desorganizada e anárquica, muitas vezes controlada por sobas e regedores, sem regulamentação oficial. Isso gera falta de transparência, vendas irregulares, perda de receita para o governo e dificuldades no planejamento urbano. A implementação de um sistema digital de gestão de terrenos permitirá transparência, regularização jurídica, eficiência, acessibilida, arrecadação de taxas e melhor controle governamental, garantindo um processo seguro e organizado para a população. 
 
 ## REQUISITOS FUNCIONAIS 
